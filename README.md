@@ -161,9 +161,17 @@ Other ways to ask questions and get our support:
 - [Onepanel](https://github.com/onepanelio/core) is an open source
   vision AI platform that fully integrates CVAT with scalable data processing
   and parallelized training pipelines.
+  
 - [DataIsKey](https://dataiskey.eu/annotation-tool/) uses CVAT as their prime data labeling tool
   to offer annotation services for projects of any size.
+  
 - [Human Protocol](https://hmt.ai) uses CVAT as a way of adding annotation service to the human protocol.
+
+- [FiftyOne](https://fiftyone.ai) is an open-source dataset curation and model analysis tool for visualizing, exploring, and improving computer vision datasets and models that is [tightly integrated](https://voxel51.com/docs/fiftyone/integrations/cvat.html) with CVAT for annotation and label refinement.
+
+<a href="https://fiftyone.ai"><img src="https://user-images.githubusercontent.com/21222883/143083891-a75d9fba-2829-43b1-ac07-bd46860964b2.png" height="500" width="700" ></a>
+
+
   <!-- prettier-ignore-start -->
   <!-- Badges -->
 
